@@ -1,0 +1,25 @@
+{
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "hexEditor.hexedit": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "notebookOutputEditor": true,
+        "jupyter-notebook": true,
+        "mainThreadWebview-markdown.preview": true,
+        "workbench.input.interactive": true,
+        "jsProfileVisualizer.heapsnapshot.table": true,
+        "jsProfileVisualizer.cpuprofile.table": true,
+        "ijnb-notebook": true,
+        "workbench.editor.chatSession": true,
+        "repl": true,
+        "workbench.editors.gettingStartedInput": true,
+        "imagePreview.previewEditor": true,
+        "vscode.audioPreview": true,
+        "jsProfileVisualizer.heapprofile.table": true,
+        "java.formatterSettingsEditor": true
+    },
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.defaultBinaryEditor": "imagePreview.previewEditor",
+    "workbench.settings.editor": "ui"
+}
